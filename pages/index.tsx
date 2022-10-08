@@ -11,7 +11,6 @@ const Home: NextPage = () => {
   )
 }
 
-const Wrapper = styled.div.attrs({ className: 'flex flex-col' })`
-`
+const Wrapper = styled.div.attrs({ className: 'flex flex-col' })``
 
 export default Home
